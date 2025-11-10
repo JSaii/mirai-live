@@ -1,4 +1,4 @@
-# 🩷 WaifuLive - Your AI Desktop Companion. Always by your side.
+# MirAILive - Your AI Desktop Companion. Always by your side.
 ⚠️ Currently not accepting PRs while the project is under heavy development. Stay tuned!
 
 ---
