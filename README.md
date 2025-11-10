@@ -3,7 +3,7 @@
 
 ---
 
-### Your one and only AI companion — brought to life on your desktop.<br>
+### Your one and only AI companion, brought to life on your desktop.<br>
 
 
 https://github.com/user-attachments/assets/f3d061db-c146-46c0-ad30-61647d0dceb4
